@@ -4,4 +4,10 @@
 
 ## Usage
 
+### Haraka
+
 TODO
+
+### Poste.io
+
+Copy `index.js` to `/data/haraka/smtp/plugins/rcpt_header.js`
